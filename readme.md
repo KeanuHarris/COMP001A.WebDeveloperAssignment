@@ -1,3 +1,3 @@
 Author : Keanu Harris
 Purpose : Practice
-Goal : Become better at web development
+Goal : Become better at web development and to master it.
